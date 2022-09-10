@@ -35,10 +35,10 @@
 
 ```console
 # clone the repo
-$ git clone https://github.com/sherlock-project/sherlock.git
+$ git clone https://github.com/AyushSoni-git/SherLock---Account-Hunter.git
 
 # change the working directory to sherlock
-$ cd sherlock
+$ cd SherLock---Account-Hunter
 
 # install the requirements
 $ python3 -m pip install -r requirements.txt
