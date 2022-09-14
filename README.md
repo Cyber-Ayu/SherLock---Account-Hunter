@@ -198,4 +198,4 @@ list of sites to ignore (one site name per line).
 ## License
 
 MIT © Sherlock Project<br/>
-Original Creator - [Siddharth Dushantha](https://github.com/sdushantha)
+Original Creator - [Ayush Soni](https://github.com/AyushSoni-git)
