@@ -191,11 +191,3 @@ If some sites are failing due to connection problems (site is down, in maintenan
 you can exclude them from tests by creating a `tests/.excluded_sites` file with a
 list of sites to ignore (one site name per line).
 
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/sherlock-project/sherlock.svg)](https://starchart.cc/sherlock-project/sherlock)
-
-## License
-
-MIT © Sherlock Project<br/>
-Original Creator - [Ayush Soni](https://github.com/AyushSoni-git)
